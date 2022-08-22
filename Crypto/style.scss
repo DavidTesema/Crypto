@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(26, 26, 28);
+
+  .main-container {
+    input {
+      background-image: linear-gradient(-225deg, #ac32e4, #7918f2 48%, #4801ff);
+      color: white;
+      border: none;
+      width: 15%;
+    }
+    ::placeholder {
+      color: white;
+    }
+    .title-container {
+      color: white;
+    }
+    .list-container {
+      color: white;
+      margin-bottom: 0;
+      img {
+        width: 25px;
+        height: 25px;
+      }
+      //   .ath24{
+      //     color: green;
+      //   }
+    }
+  }
+}
