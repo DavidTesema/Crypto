@@ -12,7 +12,7 @@ A web-based application that allows users to view real-time cryptocurrency price
 To run the application on your local machine, follow these steps:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/crypto.git
+git clone https://github.com/DavidTesema/crypto.git
 
 Copy code
 2. Navigate to the root directory of the project:
