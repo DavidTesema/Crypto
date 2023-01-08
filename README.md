@@ -34,12 +34,5 @@ If you want to contribute to the project, follow these steps:
 3. Commit your changes to the new branch.
 4. Open a pull request from your branch to the `master` branch of the original repository.
 
-## Credits
-
-- List any individuals or resources that you used in creating the project.
-
-## License
-
-Include information about the license for the project.
 ## Design
 ![Currency](https://user-images.githubusercontent.com/105584546/186004057-d952d915-7a6a-4177-bf5b-e995ef9a2ca2.jpg)
